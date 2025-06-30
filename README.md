@@ -74,6 +74,7 @@ Shopsmart/
 1. Navigate to the backend folder:
    ```bash
    cd "Project Files/Backend"
+
 2.Install the dependencies:
 
 npm install
@@ -94,6 +95,7 @@ npm install
 3.Start the Angular dev server:
 
 ng serve
+
 4.Open browser at http://localhost:4200
 
 👥 Contributors
