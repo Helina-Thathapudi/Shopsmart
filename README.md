@@ -1,4 +1,4 @@
-# Shopsmart
+
 # 🛒 ShopSmart - Your Digital Grocery Store Experience
 
 **ShopSmart** is a modern, full-stack grocery store web application designed to provide users with an easy, responsive, and intuitive platform for purchasing groceries online. It includes both customer-facing and admin interfaces for complete e-commerce functionality.
