@@ -95,8 +95,8 @@ ng serve
 
 👥 Contributors
 
-👩‍💻 Helina Thathapudi
 👩‍💻 Thirapathaswami Muvva
+👩‍💻 Helina Thathapudi
 👩‍💻 Vyshnavi pokuri
 👩‍💻 Srinadh kavati
 
