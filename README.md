@@ -94,6 +94,7 @@ ng serve
 4.Open browser at http://localhost:4200
 
 👥 Contributors
+
 👩‍💻 Helina Thathapudi
 👩‍💻 Thirapathaswami Muvva
 👩‍💻 Vyshnavi pokuri
