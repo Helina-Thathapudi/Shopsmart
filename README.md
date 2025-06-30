@@ -77,7 +77,10 @@ Shopsmart/
 2.Install the dependencies:
 
 npm install
+
 3.Start the backend server:
+
+node index.js
 
 🎨 Frontend Setup
 1.Navigate to the frontend folder:
