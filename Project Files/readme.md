@@ -80,7 +80,7 @@ ng serve
 
 🙌 Contributors
 
- thippu143
+ @thippu143
  
 📄 License
 This project is for educational and demonstration purposes.
